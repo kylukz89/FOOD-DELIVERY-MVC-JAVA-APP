@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b567074-2bfa-4c1a-9066-f283bf143748" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Adapters/BotoesMenuPontoAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Adapters/PontoAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Adapters/SegmentosAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/DAO/ParametroDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/JavaBeans/EntidadeBotoesMenuPonto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/JavaBeans/EntidadePonto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/JavaBeans/EntidadeSegmento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Routes/Rotas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/Parametros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/View/CarrinhoActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/View/MenuPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/View/SegmentoActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/da_slide_in_top.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/da_slide_out_top.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/item_animation_fall_down.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_animation_fall_down.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable-v21/button_radius_sem_sombra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/button_radius_add_carrinho.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/button_radius_add_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/button_radius_facebook.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/button_radius_gmail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/byqio_4x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/card_mercado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/drawable_gradient_verde.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/frutas_verduras.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/gmail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/gradient_beje.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/ic_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/ic_local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/ic_mais_um.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/ic_menos_um.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/jaentreguei.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/logo_jaentreguei.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/logomarca_jaentreugie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/m_frutalegumes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/pecas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/pizza_por_cima.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/r01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/segmento_moda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/segmento_pecas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/segmento_restaurantes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../font/roboto_bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/activity_carrinho.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/activity_segmento.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/card_comanda.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/card_opcoes_segmentos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/card_ponto.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../values-w820dp/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ic_launcher-playstore.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ic_launcher-playstore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/Adapters/GrupoProdutoEscolhidoAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Adapters/GrupoProdutoEscolhidoAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/Adapters/OpcoesPontoAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Adapters/OpcoesPontoAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/Animation/Animatoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Animation/Animatoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/Animation/MyBounceInterpolator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Animation/MyBounceInterpolator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/Animation/Sombreamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Animation/Sombreamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/JavaBeans/EntidadeGrupoProdutoEscolhido.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/JavaBeans/EntidadeProdutosGrupoEscolhido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/JavaBeans/EntidadeOpcoesPonto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/JavaBeans/EntidadeOpcoesPonto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/SQLite/GeraTabelasSQLite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/SQLite/GeraTabelasSQLite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/SQLite/SQLiteGeraTabelaGerenciamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/SQLite/SQLiteGeraTabelaGerenciamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/SplashActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/Ferramentas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/Ferramentas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/HidingScrollListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/HidingScrollListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/ManipulaData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/ManipulaData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/Receiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/Receiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/RoundCornersDrawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/RoundCornersDrawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/ServiceW.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/ServiceW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/SnapHelperOneByOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/SnapHelperOneByOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/VariaveisGlobais.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/Toolbox/VariaveisGlobais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/View/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/View/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/View/MapPontoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/View/MapPontoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/View/MenuPrincipal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/View/PontoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/View/PontoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/fan/fooddev/View/ScrollingActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/fan/fooddev/View/ScrollingActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drawable/logo_sem_fundo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../drawable/logo_sem_fundo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drawable/logomarca.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drawable/splash_chefe_red.png" beforeDir="false" afterPath="$PROJECT_DIR$/../drawable/splash_chefe_red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_scrolling.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_scrolling.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_splash.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/bottom_sheet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/bottom_sheet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/card_opcoes_ponto.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/card_opcoes_ponto.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/card_opcoes_ponto_produto.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/card_opcoes_ponto_produto.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/content_scrolling.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/content_scrolling.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/toolbar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/toolbar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../menu/menu_scrolling.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../menu/menu_scrolling.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../menu/menu_scrolling_pono.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../menu/menu_scrolling_pono.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../navigation/mobile_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../navigation/mobile_navigation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values-v21/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values-v21/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/styles.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="1apey8Ze7HXQ7AKrdUmPVE7dHVD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b567074-2bfa-4c1a-9066-f283bf143748" name="Default Changelist" comment="" />
+      <created>1587437213264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587437213264</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

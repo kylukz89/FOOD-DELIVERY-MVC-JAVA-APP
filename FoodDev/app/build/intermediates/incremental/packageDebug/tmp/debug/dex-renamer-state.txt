@@ -1,0 +1,4 @@
+#Mon Nov 02 08:22:03 GMT-03:00 2020
+base.0=C\:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

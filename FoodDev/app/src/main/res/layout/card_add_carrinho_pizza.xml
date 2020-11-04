@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cardQuantosSaboresPizza"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:background="@drawable/border_shadow_botoes_normais"
+    android:clickable="true"
+    android:focusable="true"
+    android:padding="10dp">
+
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewMsg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:text="Pizza de quantos sabores?"
+                android:textSize="18sp" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:clickable="true"
+                android:gravity="center">
+
+
+                <GridLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:clickable="true"
+                    android:columnCount="2"
+                    android:rowCount="2">
+                    <!-- 1 -->
+                    <ImageView
+                        android:id="@+id/imageViewPizza1"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:src="@drawable/ic_pizza_um" />
+                    <!-- 2 -->
+                    <ImageView
+                        android:id="@+id/imageViewPizza2"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:src="@drawable/ic_pizza_dois" />
+                    <!-- 3 -->
+                    <ImageView
+                        android:id="@+id/imageViewPizza3"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:src="@drawable/ic_pizza_tres" />
+                    <!-- 4 -->
+                    <ImageView
+                        android:id="@+id/imageViewPizza4"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:src="@drawable/ic_pizza_quatro" />
+
+                </GridLayout>
+
+            </LinearLayout>
+            <EditText
+                android:id="@+id/textViewObs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="35dp"
+                android:hint="Observação" />
+        </LinearLayout>
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</RelativeLayout>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:layout_margin="8dp"
+    android:background="@drawable/border_shadow_botoes_normais"
+    android:padding="10dp">
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/textViewMsg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Esta ação irá descartar todos os itens existentes no carrinho, deseja realmente descartar e sair?"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:id="@+id/buttonBotaoDescartarCarrinhoESair"
+            android:layout_width="150dp"
+            android:layout_height="34dp"
+            android:layout_gravity="bottom|right"
+            android:background="@drawable/button_radius"
+            android:padding="5dp">
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginLeft="2dp"
+                android:background="@drawable/ic_remover_carrinho"
+                android:textColor="@color/colorBrancaPadrao" />
+
+            <TextView
+                android:id="@+id/imageButtonDescartar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#00000000"
+                android:gravity="center|center_horizontal|center_vertical"
+                android:text="Ok, descartar!"
+                android:textColor="@color/colorBrancaPadrao"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</RelativeLayout>

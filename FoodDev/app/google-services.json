@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685919654220",
+    "firebase_url": "https://fooddev-376d3.firebaseio.com",
+    "project_id": "fooddev-376d3",
+    "storage_bucket": "fooddev-376d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685919654220:android:06d7a2112c948903697fe9",
+        "android_client_info": {
+          "package_name": "com.kylukz.fooddev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685919654220-ci1gdr4gogo2uuunlfsi85dgqscmrtn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz1bhCqsyOCIzwdLOE5dWFKPKZX2olna4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685919654220-ci1gdr4gogo2uuunlfsi85dgqscmrtn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

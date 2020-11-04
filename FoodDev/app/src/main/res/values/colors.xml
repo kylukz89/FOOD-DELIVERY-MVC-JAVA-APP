@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fbb000</color>
+    <color name="colorPrimaryDark">#fbb000</color>
+    <color name="colorAccent">#6c0000</color>
+
+    <color name="colorAmarelaPadrao">#fbb000</color>
+    <color name="colorVermelha">#FB0000</color>
+    <color name="colorPreta">#000000</color>
+    <color name="bordoBotoesGerais">#6c0000</color>
+    <color name="vinho">#4BFF1100</color>
+    <color name="vinhoMais">#4A810900</color>
+    <color name="colorAmarelaPadraoTransp">#8DFBB000</color>
+    <color name="colorPadraoTransp">#00000000</color>
+    <color name="colorCinzaFlags">#5C5C5C</color>
+    <color name="colorCinzaPadrao">#aaa</color>
+    <color name="colorCinzaPadraoMenu">#DFDFDF</color>
+    <color name="colorCinzaComanda">#eee</color>
+    <color name="colorBrancaPadrao">#fff</color>
+    <color name="colorVerdeClaro">#2FD100</color>
+    <color name="colorVerdeEscuro">#228B22</color>
+    <color name="colorAzulFacebook">#3b5998</color>
+    <color name="colorVermelhoGmail">#B23121</color>
+    <color name="colorBotaoPagar1">#32CD32</color>
+    <color name="colorBotaoPagar2">#228B22</color>
+    <color name="colorPadraoCinzaPadrao">#DDDDDD</color>
+</resources>

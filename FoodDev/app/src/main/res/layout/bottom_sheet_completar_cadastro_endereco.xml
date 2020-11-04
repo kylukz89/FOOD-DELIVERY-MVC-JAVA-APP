@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_sheet_completar_cadastro_endereco"
+    android:layout_width="match_parent"
+    android:layout_height="450dp"
+    android:background="@color/colorBrancaPadrao"
+    android:descendantFocusability="beforeDescendants"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical"
+    android:windowSoftInputMode="stateHidden|adjustPan"
+    app:behavior_hideable="false"
+    app:behavior_peekHeight="0dp"
+    app:cardCornerRadius="20dp"
+    app:cardElevation="3dp"
+    app:layout_behavior="@string/bottom_sheet_behavior">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="450dp">
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <LinearLayout
+                android:id="@+id/containerPrincipal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="30dp"
+                android:paddingTop="5dp"
+                android:paddingRight="30dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:drawableTop="@drawable/ic_hide_expand"
+                    android:drawablePadding="5dp"
+                    android:gravity="center"
+                    android:src="@drawable/ic_hide_expand"
+                    android:textColor="#000000"
+                    android:textColorHighlight="@color/colorPrimaryDark"
+                    android:textColorHint="@color/colorPreta"
+                    android:textColorLink="@color/colorPreta"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:layout_marginBottom="-5dp"
+                    android:gravity="center"
+                    android:text="Complete seu Cadastro"
+                    android:textColor="#111"
+                    android:textSize="14sp" />
+
+
+                <EditText
+                    android:id="@+id/editTextCampoCEPCompletarCadastro"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:drawableLeft="@drawable/ic_cep"
+                    android:drawablePadding="10dp"
+                    android:hint="CEP"
+                    android:inputType="number"
+                    android:maxLength="8"
+                    android:textColor="#000000"
+                    android:textColorHighlight="@color/colorPrimaryDark"
+                    android:textColorHint="@color/colorCinzaFlags"
+                    android:textColorLink="@color/colorPreta"
+                    android:textSize="17sp" />
+
+                <EditText
+                    android:id="@+id/editTextCampoEnderecoCompletarCadastro"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:drawableLeft="@drawable/ic_endereco"
+                    android:drawablePadding="10dp"
+                    android:hint="Endereço"
+                    android:inputType="textCapSentences"
+                    android:textColor="#000000"
+                    android:textColorHighlight="@color/colorPrimaryDark"
+                    android:textColorHint="@color/colorCinzaFlags"
+                    android:textColorLink="@color/colorPreta"
+                    android:textSize="17sp" />
+
+
+
+                <EditText
+                    android:id="@+id/editTextCampoNumero"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:drawableLeft="@drawable/ic_numero"
+                    android:drawablePadding="10dp"
+                    android:hint="nº"
+                    android:inputType="number"
+                    android:textColor="#000000"
+                    android:textColorHighlight="@color/colorPrimaryDark"
+                    android:textColorHint="@color/colorCinzaFlags"
+                    android:textColorLink="@color/colorPreta"
+                    android:textSize="17sp" />
+
+
+                <EditText
+                    android:id="@+id/editTextCampoBairro"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:drawableLeft="@drawable/ic_bairro"
+                    android:drawablePadding="10dp"
+                    android:focusable="false"
+                    android:hint="Bairro"
+                    android:inputType="text"
+                    android:textColor="#000000"
+                    android:textColorHighlight="@color/colorPrimaryDark"
+                    android:textColorHint="@color/colorCinzaFlags"
+                    android:textColorLink="@color/colorPreta"
+                    android:textSize="17sp" />
+
+                <EditText
+                    android:id="@+id/editTextCampoCidade"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:drawableLeft="@drawable/ic_cidade"
+                    android:drawablePadding="10dp"
+                    android:focusable="false"
+                    android:hint="Cidade"
+                    android:inputType="text"
+                    android:textColor="#000000"
+                    android:textColorHighlight="@color/colorPrimaryDark"
+                    android:textColorHint="@color/colorCinzaFlags"
+                    android:textColorLink="@color/colorPreta"
+                    android:textSize="17sp" />
+
+                <EditText
+                    android:id="@+id/editTextCampoReferencia"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:drawableLeft="@drawable/ic_olho"
+                    android:drawablePadding="10dp"
+                    android:hint="Referência (Opcional)"
+                    android:textColor="#000000"
+                    android:textColorHighlight="@color/colorPrimaryDark"
+                    android:textColorHint="@color/colorCinzaFlags"
+                    android:textColorLink="@color/colorPreta"
+                    android:textSize="17sp" />
+
+
+                <!-- BOTÃO ACESSAR-->
+                <Button
+                    android:id="@+id/buttonBotaoCompletarCadastro"
+                    android:layout_width="match_parent"
+                    android:layout_height="34dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/button_radius"
+                    android:gravity="center_horizontal|center_vertical"
+                    android:onClick="processamento"
+                    android:text="Completar Cadastro"
+                    android:textAlignment="center"
+                    android:textAllCaps="false"
+                    android:textColor="@color/colorBrancaPadrao"
+                    android:textSize="12sp"
+                    tools:ignore="OnClick" />
+
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

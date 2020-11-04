@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cardOpcoesPonto"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:layout_margin="7dp"
+    android:layout_marginBottom="5dp"
+    android:background="@drawable/border_shadow_botoes_normais"
+    android:cropToPadding="true"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="7dp"
+    app:cardPreventCornerOverlap="true">
+
+
+    <ImageView
+        android:id="@+id/imageViewOpcoesPonto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:drawingCacheQuality="low"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bebidas_jpeg"
+        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteY="5dp" />
+
+    <TextView
+        android:id="@+id/textVieSombra"
+        android:layout_width="402dp"
+        android:layout_height="38dp"
+        android:layout_gravity="bottom|fill_horizontal|center_vertical"
+        android:autoLink="all"
+        android:background="@color/colorAmarelaPadraoTransp"
+        android:textAllCaps="false"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@color/colorBrancaPadrao"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:fontFamily="@font/berkshire_swash" />
+
+    <TextView
+        android:id="@+id/textViewNomeOpcao"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:autoLink="all"
+        android:gravity="center"
+        android:text="TextView"
+        android:textAllCaps="false"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@color/colorBrancaPadrao"
+        android:textSize="14sp"
+        android:textStyle="bold|italic"
+        app:fontFamily="@font/roboto_slab_thin"
+        tools:visibility="visible" />
+
+</androidx.cardview.widget.CardView>

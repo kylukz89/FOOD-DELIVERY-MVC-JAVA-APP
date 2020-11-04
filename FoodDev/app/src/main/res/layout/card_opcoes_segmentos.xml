@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cardOpcoesPonto"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:layout_margin="10dp"
+    android:background="@drawable/border_shadow_botoes_normais"
+    android:cropToPadding="true"
+    app:cardCornerRadius="15dp"
+    app:cardElevation="7dp"
+    app:cardPreventCornerOverlap="true">
+
+
+    <ImageView
+        android:id="@+id/imageViewSegmento"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:drawingCacheQuality="low"
+        android:scaleType="centerCrop"
+        android:src="@drawable/card_mercado"
+        tools:layout_editor_absoluteY="5dp" />
+
+<!--    <TextView-->
+<!--        android:id="@+id/textVieSombra"-->
+<!--        android:layout_width="402dp"-->
+<!--        android:layout_height="38dp"-->
+<!--        android:layout_gravity="bottom|fill_horizontal|center_vertical"-->
+<!--        android:autoLink="all"-->
+<!--        android:background="@color/colorAmarelaPadraoTransp"-->
+<!--        android:textAllCaps="false"-->
+<!--        android:textAppearance="@style/TextAppearance.AppCompat.Body1"-->
+<!--        android:textColor="@color/colorBrancaPadrao"-->
+<!--        android:textSize="18sp"-->
+<!--        android:textStyle="bold"-->
+<!--        app:fontFamily="@font/berkshire_swash" />-->
+
+
+    <TextView
+        android:id="@+id/textViewNomeSegmento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom|top"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:autoLink="all"
+        android:gravity="left"
+        android:text="Mercados E Afins"
+        android:textAllCaps="false"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@color/colorBrancaPadrao"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:fontFamily="sans-serif"
+        tools:visibility="visible" />
+
+    <TextView
+        android:id="@+id/textViewNomeDescricaoSegmento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom|top"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="80dp"
+        android:autoLink="all"
+        android:gravity="left"
+        android:text="Rápido e prático, como tem que ser"
+        android:textAllCaps="false"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@color/colorBrancaPadrao"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        tools:visibility="visible" />
+</androidx.cardview.widget.CardView>

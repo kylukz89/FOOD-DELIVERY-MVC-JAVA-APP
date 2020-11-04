@@ -1,0 +1,22 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        
+    </style>
+
+    <style name="AppSearchView" parent="Widget.AppCompat.SearchView">
+        <!-- Query Text Color -->
+        <item name="android:textColorPrimary">@color/colorBrancaPadrao</item>
+        <!-- Hint Color -->
+        <item name="android:textColorHint">@color/colorBrancaPadrao</item>
+        <!-- Icon Color -->
+        <item name="android:tint">@color/colorBrancaPadrao</item>
+        <!-- Underline -->
+        <item name="android:queryBackground">@color/colorBrancaPadrao</item>
+    </style>
+
+
+</resources>

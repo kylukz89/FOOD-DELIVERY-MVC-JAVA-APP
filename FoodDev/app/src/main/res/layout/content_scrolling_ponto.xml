@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants"
+    android:focusable="true"
+    android:clipToPadding="false"
+
+    android:focusableInTouchMode="true"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_scrolling_ponto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:orientation="vertical"
+        android:padding="2dp"
+        app:behavior_hideable="false"
+        app:behavior_peekHeight="0dp"
+        app:layout_behavior="@string/bottom_sheet_behavior">
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerViewBotoesMenuPonto"
+            android:layout_width="match_parent"
+            android:layout_height="112dp"
+            android:layout_marginTop="3dp"
+            android:descendantFocusability="beforeDescendants"
+            android:focusableInTouchMode="true"
+            android:layoutAnimation="@anim/layout_animation_fall_down"
+            android:nestedScrollingEnabled="false"
+            app:layoutManager="LinearLayoutManager"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+
+        <com.google.android.material.circularreveal.CircularRevealGridLayout
+            android:id="@+id/circularTotalConta"
+            android:layout_width="match_parent"
+            android:layout_height="105dp"
+            android:layout_marginTop="5dp"
+            android:visibility="gone"
+            android:layout_gravity="center|center_horizontal|center_vertical"
+            android:foregroundGravity="center_vertical|center|center_horizontal"
+            android:background="@color/colorCinzaPadraoMenu"
+            android:columnCount="2">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp"
+                android:layout_marginTop="2dp"
+                android:paddingRight="10dp"
+                android:paddingTop="10dp">
+
+
+                <!--            -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textViewLabelTaxaEntrega"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_row="0"
+                        android:layout_column="0"
+                        android:layout_marginBottom="10dp"
+                        android:text="Taxa entrega"
+                        android:textColor="@color/colorPreta" />
+
+                    <TextView
+                        android:id="@+id/textViewLabelDesconto"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_row="0"
+                        android:layout_column="0"
+                        android:layout_marginBottom="10dp"
+                        android:text="Desconto"
+                        android:textColor="@color/colorPreta" />
+
+                    <TextView
+                        android:id="@+id/textViewLabelTotalCarrinho"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_row="0"
+                        android:layout_column="0"
+                        android:layout_marginBottom="10dp"
+                        android:text="Total"
+                        android:textColor="@color/colorPreta"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+
+                <!--            -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textViewTaxaEntrega"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_row="0"
+                        android:layout_column="0"
+                        android:layout_marginBottom="10dp"
+                        android:text="R$ 0,00"
+                        android:textColor="@color/colorPreta" />
+
+                    <TextView
+                        android:id="@+id/textViewDesconto"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_row="0"
+                        android:layout_column="0"
+                        android:layout_marginBottom="10dp"
+                        android:text="R$ 0,00"
+                        android:textColor="@color/colorPreta" />
+
+                    <TextView
+                        android:id="@+id/textViewValorTotalCarrinho"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_row="0"
+                        android:layout_column="0"
+                        android:text="R$ 0,00"
+                        android:textColor="@color/colorPreta"
+                        android:layout_marginTop="-5dp"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </LinearLayout>
+        </com.google.android.material.circularreveal.CircularRevealGridLayout>
+
+
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerViewOpcoesPonto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:descendantFocusability="beforeDescendants"
+            android:focusable="true"
+            android:layoutAnimation="@anim/layout_animation_fall_down"
+            android:nestedScrollingEnabled="false"
+            android:paddingBottom="45dp"
+            android:layout_marginBottom="5dp"
+            android:windowSoftInputMode="stateHidden|adjustPan"
+            app:layoutManager="LinearLayoutManager"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+
+
+    </LinearLayout>
+
+
+</androidx.core.widget.NestedScrollView>

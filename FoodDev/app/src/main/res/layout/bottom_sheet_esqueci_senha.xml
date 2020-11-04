@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_sheet_esqueci_senha"
+    android:layout_width="match_parent"
+    android:layout_height="170dp"
+    android:background="@color/colorBrancaPadrao"
+    android:descendantFocusability="beforeDescendants"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical"
+    android:windowSoftInputMode="stateHidden|adjustPan"
+    app:behavior_hideable="false"
+    app:behavior_peekHeight="0dp"
+    app:cardCornerRadius="20dp"
+    app:cardElevation="3dp"
+    app:layout_behavior="@string/bottom_sheet_behavior">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="140dp">
+            <!-- CONTAINER PRINCIPAL -->
+            <LinearLayout
+                android:id="@+id/containerPrincipal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="30dp"
+                android:paddingTop="5dp"
+                android:paddingRight="30dp">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:drawableTop="@drawable/ic_hide_expand"
+                    android:drawablePadding="5dp"
+                    android:gravity="center"
+                    android:src="@drawable/ic_hide_expand"
+                    android:textColor="#000000"
+                    android:textColorHighlight="@color/colorPrimaryDark"
+                    android:textColorHint="@color/colorPreta"
+                    android:textColorLink="@color/colorPreta"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:layout_marginBottom="-5dp"
+                    android:gravity="center"
+                    android:text="Esqueci minha senha"
+                    android:textColor="#111"
+                    android:textSize="14sp" />
+
+
+                <EditText
+                    android:id="@+id/editTextCampoCPFEsqueciSenha"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+
+                    android:drawableLeft="@drawable/ic_cadastro_cpf"
+                    android:drawablePadding="10dp"
+                    android:hint="CPF"
+                    android:inputType="number"
+                    android:maxLength="14"
+                    android:textColor="#000000"
+                    android:textColorHighlight="@color/colorPrimaryDark"
+                    android:textColorHint="@color/colorCinzaFlags"
+                    android:textColorLink="@color/colorPreta"
+                    android:textSize="17sp" />
+
+
+                <!-- BOTÃO LOGIN -->
+
+                <!-- CAMPO SENHA -->
+
+                <!-- CAMPO SENHA -->
+
+                <!-- CAMPO SENHA -->
+
+                <!-- BOTÃO ACESSAR-->
+                <Button
+                    android:id="@+id/buttonBotaoSolicitarPINEsqueciSenhaEmail"
+                    android:layout_width="match_parent"
+                    android:layout_height="34dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/button_radius"
+                    android:gravity="center_horizontal|center_vertical"
+                    android:onClick="processamento"
+                    android:text="Enviar por E-mail"
+                    android:textAlignment="center"
+                    android:textAllCaps="false"
+                    android:textColor="@color/colorBrancaPadrao"
+                    android:textSize="12sp"
+                    tools:ignore="OnClick" />
+
+            </LinearLayout>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

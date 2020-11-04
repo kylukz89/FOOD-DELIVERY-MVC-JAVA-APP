@@ -1,0 +1,2478 @@
+[
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pg_pessoa.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pg_pessoa.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cidade.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cidade.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_split_enter.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_split_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_scrolling.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\menu\\menu_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_favorito.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_favorito.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pizzas2.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\pizzas2.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cadastro_sobrenome.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cadastro_sobrenome.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lanches.jpg.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\lanches.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_msg_alerta.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_msg_alerta.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_add_carrinho_pizza_sabor.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\card_add_carrinho_pizza_sabor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sombra_imageview.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\sombra_imageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cartao.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cartao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cadastro_nascimento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cadastro_nascimento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cadastro_cpf.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cadastro_cpf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cadastro_sobrenome.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cadastro_sobrenome.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_mais_um.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_mais_um.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_radius_add_carrinho.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\button_radius_add_carrinho.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_camera.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_mais_um.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_mais_um.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_erro.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_erro.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cartao.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cartao.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_msg_alerta.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_msg_alerta.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_radius_gmail.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\button_radius_gmail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_botao_menu_ponto.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\card_botao_menu_ponto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cadastro_sobrenome.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cadastro_sobrenome.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up_dialog.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\slide_up_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_gallery.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pg_cartao.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pg_cartao.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_radius_facebook.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\button_radius_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_numero.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_numero.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pg_cartao.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pg_cartao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_autorizado_pagamento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_autorizado_pagamento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_aspereza.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_aspereza.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_from_right.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\slide_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pg_cartao.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pg_cartao.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_r01.jpg.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\r01.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_carshop.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_carshop.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_camera.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_swipe_left_exit.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_swipe_left_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_doces.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\doces.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_fechar_empresa.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\card_fechar_empresa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_money.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_money.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_enter_from_left.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\enter_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_confirmar_pagamento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_confirmar_pagamento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radius_bottom_sheet_titulo.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\radius_bottom_sheet_titulo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_msg_alerta.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_msg_alerta.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_enter_anim.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\enter_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_money.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_money.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_bairro.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_bairro.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_down.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\slide_out_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_chefe_red.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\splash_chefe_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_slideshow.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sucesso.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_sucesso.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_confirmar_pagamento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_confirmar_pagamento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cadastro_cpf.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cadastro_cpf.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_msg_alerta.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_msg_alerta.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_hide_expand.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_hide_expand.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_to_left.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\slide_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pg_cartao.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pg_cartao.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jaentreguei.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\jaentreguei.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_compartilhar.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_compartilhar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_remover_carrinho.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_remover_carrinho.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_split_exit.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_split_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_money_verde.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_money_verde.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_app.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\logo_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cadastro_sobrenome.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cadastro_sobrenome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_shrink_exit.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_shrink_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scrolling_ponto.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\activity_scrolling_ponto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_enter_from_right.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\enter_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pizza_um.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\ic_pizza_um.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_descricao_detalhes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_descricao_detalhes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_x.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\debug\\res\\menu\\menu_x.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_remover_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_remover_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_restaurante_caseiro.jpg.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\restaurante_caseiro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_segmento_moda.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\segmento_moda.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_add_carrinho_padrao.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\card_add_carrinho_padrao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_outras_opcoes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_outras_opcoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menos_um.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menos_um.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pg_calendar.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pg_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_slideshow.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_outras_opcoes.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_outras_opcoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_radius.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\button_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_local.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_local.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_eu.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_eu.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mastercard.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\mastercard.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_money.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_money.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_aspereza.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_aspereza.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pg_calendar.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pg_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_remover_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_remover_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_bairro.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_bairro.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_sucesso.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_sucesso.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cadastro_sobrenome.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cadastro_sobrenome.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cartao.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cartao.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_slide_left_enter.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_slide_left_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_sucesso.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_sucesso.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cep.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cep.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_slideshow.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pizza_por_cima.jpg.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\pizza_por_cima.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rounded.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\bg_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_outras_opcoes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_outras_opcoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_erro.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_erro.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pg_pessoa.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pg_pessoa.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pg_pessoa.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pg_pessoa.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_next.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_sobre.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_sobre.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_card_exit.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_card_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cadastrar_pin.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\activity_cadastrar_pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_produtos_lista_escolha_popup.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\card_produtos_lista_escolha_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_historico_pedidos.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_historico_pedidos.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_diner.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\diner.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pg_seguranca.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pg_seguranca.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sucesso.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_sucesso.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_confirmar_pagamento.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_confirmar_pagamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_autorizado_pagamento.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_autorizado_pagamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_add_carrinho_pizza.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\card_add_carrinho_pizza.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_carshop.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_carshop.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_autorizado_pagamento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_autorizado_pagamento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_camera.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_beje.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\gradient_beje.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_mais_um.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_mais_um.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_fade_enter.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_fade_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_confirmar_pagamento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_confirmar_pagamento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_carrinho_com_item.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\flag_carrinho_com_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_eu.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_eu.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_today_black_24dp.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_today_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_olho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_olho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_historico_desc.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_historico_desc.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_from_left.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\slide_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cep.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cep.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_favorito.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_favorito.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cidade.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cidade.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_opcoes_ponto_produto.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\card_opcoes_ponto_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_info.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pg_calendar.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pg_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grupo_lanche.jpg.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\grupo_lanche.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_numero.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_numero.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_local.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_local.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_up_from_bottom.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\up_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_hide_expand.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_hide_expand.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_remove_red_eye_black_24dp.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\ic_remove_red_eye_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_to_bottom.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\font_berkshire_swash.ttf.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\font\\berkshire_swash.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sucesso.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_sucesso.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_entregador.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_entregador.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radius_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\radius_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_endereco.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_endereco.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_local.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_local.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_windmill_enter.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_windmill_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_eu.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_eu.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_endereco.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_endereco.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mais_um.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_mais_um.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_hide_expand.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_hide_expand.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cidade.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cidade.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cidade.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cidade.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_mais_um.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mais_um.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_endereco.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_endereco.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_slide_up_exit.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_slide_up_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_botao_pagar.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\botao_pagar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_produtos.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_produtos.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cadastro_cpf.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cadastro_cpf.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_slideshow.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_compartilhar.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_compartilhar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_comanda.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_comanda.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\menu_x.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\menu\\x.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_endereco.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_endereco.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favorito.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorito.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_descricao_detalhes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_descricao_detalhes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_slide_left_exit.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_slide_left_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_comanda.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_comanda.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_olho.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_olho.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favorito.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_favorito.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_diagonal_right_exit.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_diagonal_right_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_lupa.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_lupa.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_opcoes_ponto.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\card_opcoes_ponto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sobre.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_sobre.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cidade.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cidade.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_olho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_olho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_local.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_local.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_endereco.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_endereco.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_descricao_detalhes.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_descricao_detalhes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_today_black_24dp.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_today_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_tween.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\tween.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_contato.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_contato.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_curved_background.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\curved_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cep.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cep.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_link_black_24dp.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\ic_link_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_menu_x_drawer.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\debug\\res\\menu\\activity_menu_x_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_verde_padrao.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\gradient_verde_padrao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_slideshow.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cadastro_nascimento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cadastro_nascimento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_etapa_credito.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\card_etapa_credito.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pg_seguranca.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pg_seguranca.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cadastro_email.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cadastro_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_comanda.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_comanda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_gallery.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_olho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_olho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_radius_pesq.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\button_radius_pesq.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_radius_add_info.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\button_radius_add_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pizza_quatro.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\ic_pizza_quatro.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lanchonete_acalanto.jpg.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\lanchonete_acalanto.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_entregador.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_entregador.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_menu_principal.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\content_menu_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_gallery.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_in_out_enter.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_in_out_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cadastro_email.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cadastro_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_radius_sem_sombra.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\button_radius_sem_sombra.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu_principal.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\activity_menu_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_lupa.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_lupa.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_produtos.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_produtos.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menos_um.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menos_um.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_slide_down_exit.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_slide_down_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_swipe_right_exit.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_swipe_right_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_alert_dialog.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\custom_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_contato.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_contato.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pg_pessoa.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pg_pessoa.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_next.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pizzaria.jpg.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\pizzaria.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_to_right.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\slide_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_money.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_money.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_card_enter.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_card_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fecha_conta_carrinho.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\activity_fecha_conta_carrinho.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corner.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_toast_msg_sucesso.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\toast_msg_sucesso.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cidade.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cidade.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cidade.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cidade.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logomarca_jaentreugie.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\logomarca_jaentreugie.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_money.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_money.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_mercado.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\card_mercado.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_descartar_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_descartar_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_remover_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_remover_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_aspereza.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_aspereza.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadeout.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_historico_pedidos.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_historico_pedidos.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cartao.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cartao.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps_ponto.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\activity_maps_ponto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_pagar_cartao.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\popup_pagar_cartao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cadastro_cpf.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cadastro_cpf.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_carshop.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_carshop.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cadastro_nome.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cadastro_nome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pg_pessoa.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pg_pessoa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cadastro_email.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cadastro_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cadastro_senha.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cadastro_senha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_shadow_botoes_normais.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\border_shadow_botoes_normais.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_produtos.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_produtos.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_camera.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cadastro_nascimento.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cadastro_nascimento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_descartar_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_descartar_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pg_seguranca.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pg_seguranca.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cadastro_nascimento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cadastro_nascimento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_promocoes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_promocoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_bold.ttf.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\font\\roboto_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_zoom_exit.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_zoom_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_lupa.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_lupa.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_descartar_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_descartar_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_sem_fundo.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\logo_sem_fundo.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pg_calendar.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pg_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_compartilhar.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_compartilhar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_hide_expand.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_hide_expand.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_compartilhar.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_compartilhar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_entregador.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_entregador.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_segmento_restaurantes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\segmento_restaurantes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_lupa.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_lupa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_carshop.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_carshop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_jaentreguei.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\logo_jaentreguei.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cadastro_senha.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cadastro_senha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pratos.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\pratos.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_menu_x.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\nav_header_menu_x.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cadastro_nome.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cadastro_nome.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cadastro_cpf.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cadastro_cpf.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawable_gradient_verde.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\drawable_gradient_verde.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_m_frutalegumes.jpg.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\m_frutalegumes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sobre.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_sobre.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_remover_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_remover_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_sucesso.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_sucesso.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_contato.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_contato.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_regular.ttf.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\font\\roboto_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pratos_jpeg.jpg.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\pratos_jpeg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_endereco.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_endereco.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_aspereza.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_aspereza.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pg_seguranca.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pg_seguranca.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cadastro_nascimento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cadastro_nascimento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pg_seguranca.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pg_seguranca.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cep.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cep.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_sucesso.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_sucesso.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_swipe_left_enter.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_swipe_left_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_produtos.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_produtos.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cadastro_nascimento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cadastro_nascimento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_opcao_destacada_shadowgrande_amarela.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\border_opcao_destacada_shadowgrande_amarela.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_money_verde.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_money_verde.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_tutorial1.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\tutorial1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_scrolling_pono.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\menu\\menu_scrolling_pono.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_etapa_um_pagamento.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\card_etapa_um_pagamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_american_express.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\american_express.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_erro.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_erro.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cadastro_senha.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cadastro_senha.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_historico_desc.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_historico_desc.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_hide_expand.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_hide_expand.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_historico_pedidos.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_historico_pedidos.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_money.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_money.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cielo_png.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\ic_cielo_png.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pg_cartao.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pg_cartao.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pg_calendar.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pg_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_card_add_carrinho.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\border_card_add_carrinho.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_historico_desc.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_historico_desc.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_sheet_completar_cadastro_endereco.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\bottom_sheet_completar_cadastro_endereco.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cadastro_senha.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cadastro_senha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_today_black_24dp.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_today_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_today_black_24dp.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_today_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_carshop.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_carshop.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cadastro_nome.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cadastro_nome.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cadastro_email.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cadastro_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_autorizado_pagamento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_autorizado_pagamento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cadastro_android.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cadastro_android.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_promocoes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_promocoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_opcoes_segmentos.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\card_opcoes_segmentos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_erro.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_erro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pg_cartao.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pg_cartao.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cartao.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cartao.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_carrinho.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_carrinho.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cadastro_android.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cadastro_android.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_descartar_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_descartar_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cadastro_nome.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cadastro_nome.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_outras_opcoes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_outras_opcoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_erro.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_erro.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_bairro.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_bairro.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_aspereza.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_aspereza.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_nothing.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\nothing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_historico_desc.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_historico_desc.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cartao.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cartao.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_entregador.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_entregador.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_money_verde.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_money_verde.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_carshop.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_carshop.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frutas_verduras.jpg.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\frutas_verduras.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_ponto.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\card_ponto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sorvetes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\sorvetes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cep.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cep.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_erro.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_erro.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_segmento_pecas.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\segmento_pecas.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_historico_pedidos.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_historico_pedidos.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_exit_to_right.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\exit_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_chefe.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\splash_chefe.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cadastro_android.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cadastro_android.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_windmill_exit.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_windmill_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_slab_thin.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\font\\roboto_slab_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cadastro_sobrenome.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cadastro_sobrenome.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_descricao_detalhes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_descricao_detalhes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_historico_pedidos.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_historico_pedidos.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_descartar_carrinho.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_descartar_carrinho.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hipercard.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\hipercard.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_opcao_destacada_shadowgrande_verde.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\border_opcao_destacada_shadowgrande_verde.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_shadow_material.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\border_shadow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_autorizado_pagamento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_autorizado_pagamento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_msg_alerta.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_msg_alerta.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_aspereza.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_aspereza.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bebidas_jpeg.jpg.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\bebidas_jpeg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_bg.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_compartilhar.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_compartilhar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_entregador.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_entregador.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_back.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_compartilhar.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_compartilhar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadein.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_x.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\nav_header_x.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_detalhe_produto.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\card_detalhe_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_slide_out_right.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_content_copy_black_24dp.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\ic_content_copy_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_historico_pedidos.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_historico_pedidos.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_aspereza.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_aspereza.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_endereco.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_endereco.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_today_black_24dp.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_today_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pizzas.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\pizzas.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_vermelho_erro.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\border_vermelho_erro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cadastro_nascimento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cadastro_nascimento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_info.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pizza_dois.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\ic_pizza_dois.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_comanda.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_comanda.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_elo.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\elo.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_slide_down_enter.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_slide_down_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_sobre.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_sobre.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_money_verde.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_money_verde.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pg_calendar.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pg_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\xml_backup_descriptor.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\xml\\backup_descriptor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_contato.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_contato.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_bairro.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_bairro.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_toast_transacao_autorizada.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\toast_transacao_autorizada.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_comanda.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_comanda.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_down_from_top.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\down_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cep.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cep.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_historico_desc.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_historico_desc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_teste.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\activity_teste.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_historico_desc.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_historico_desc.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_eu.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_eu.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_outras_opcoes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_outras_opcoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_toast_msg_alerta.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\toast_msg_alerta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_fade_exit.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_fade_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_hyperspace_jump.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\hyperspace_jump.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sobre.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_sobre.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_comanda.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_comanda.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_money_verde.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_money_verde.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pg_pessoa.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pg_pessoa.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bebidas.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\bebidas.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_money.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_money.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_money_verde.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_money_verde.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_promocoes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_promocoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_amarelho_alerta.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\border_amarelho_alerta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_erro.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_erro.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_scrolling_ponto.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\content_scrolling_ponto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cadastro_senha.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cadastro_senha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_diagonal_right_enter.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_diagonal_right_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_autorizado_pagamento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_autorizado_pagamento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_numero.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_numero.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_exit_to_left.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\exit_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_layout_animation_fall_down.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\layout_animation_fall_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_lupa.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_lupa.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_outras_opcoes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_outras_opcoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_outras_opcoes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_outras_opcoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_mono_thin.ttf.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\font\\roboto_mono_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_visa.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\visa.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_olho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_olho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_descartar_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_descartar_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_produtos.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_produtos.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_sheet_esqueci_senha.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\bottom_sheet_esqueci_senha.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_promocoes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_promocoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_item_animation_fall_down.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\item_animation_fall_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_da_slide_in_top.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\da_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_descartar_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_descartar_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pizza_tres.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\ic_pizza_tres.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_eu.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_eu.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_produtos.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_produtos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_allowaccess_button_normal.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\allowaccess_button_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_produtos.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_produtos.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_msg_alerta.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_msg_alerta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_hide_expand.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_hide_expand.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_money_verde.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_money_verde.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menos_um.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menos_um.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cadastro_cpf.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cadastro_cpf.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_compartilhar.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_compartilhar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_entregador.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_entregador.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_lupa.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_lupa.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_historico_pedidos.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_historico_pedidos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_info.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_verde_escuro_add_carrinho.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\border_verde_escuro_add_carrinho.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cartao.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cartao.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_spin_exit.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_spin_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_favorito.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_favorito.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_gallery.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_local.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_local.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_today_black_24dp.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_today_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pecas.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\pecas.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_slide_up_enter.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_slide_up_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pg_seguranca.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pg_seguranca.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_promocoes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_promocoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_info.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_formas_pagamento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\formas_pagamento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cadastro_android.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cadastro_android.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favorito.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_favorito.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cadastro_android.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cadastro_android.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_pulse.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\pulse.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_bairro.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_bairro.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_promocoes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_promocoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_entregador.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_entregador.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_camera.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cadastro_email.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cadastro_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_comanda.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\card_comanda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_bounce.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_numero.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_numero.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_descricao_detalhes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_descricao_detalhes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logomarca_chefe.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\logomarca_chefe.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cadastro_sobrenome.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cadastro_sobrenome.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cadastro_email.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cadastro_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_thin.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\font\\roboto_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_remover_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_remover_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_slideshow.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favorito.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_favorito.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cadastro_nome.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cadastro_nome.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_olho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_olho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_preco_total.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\card_preco_total.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share_black_24dp.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\ic_share_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_today_black_24dp.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_today_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_menu_principal.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\app_bar_menu_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cadastro_cpf.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cadastro_cpf.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_local.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_local.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_bairro.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_bairro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pg_pessoa.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pg_pessoa.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_remover_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_remover_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_comanda.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_comanda.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menos_um.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menos_um.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_camera.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_numero.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_numero.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_confirmar_pagamento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_confirmar_pagamento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_restau.jpg.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\restau.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pg_calendar.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pg_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_sobre.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_sobre.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_carshop.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_carshop.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cadastro_nome.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cadastro_nome.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_sobre.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_sobre.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_numero.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_numero.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_confirmar_pagamento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_confirmar_pagamento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_in_out_exit.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_in_out_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_eu.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_eu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_descricao_detalhes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_descricao_detalhes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_eu.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_eu.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_back.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pg_seguranca.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pg_seguranca.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cep.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cep.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_contato.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_contato.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cadastro_senha.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cadastro_senha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menos_um.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menos_um.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menos_um.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menos_um.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_gallery.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_descricao_detalhes.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_descricao_detalhes.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_segmento.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\activity_segmento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gmail.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\drawable\\gmail.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_mais_um.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_mais_um.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menos_um.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menos_um.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mais_um.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_mais_um.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_contato.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_contato.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_confirmar_pagamento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_confirmar_pagamento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_contato.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_contato.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pg_cartao.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pg_cartao.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cadastro_nome.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cadastro_nome.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_olho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_olho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_etapa_bandeira_cartao.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\card_etapa_bandeira_cartao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_slide_in_left.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_toast_msg_erro.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\toast_msg_erro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_da_slide_out_top.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\da_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_bairro.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_bairro.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_local.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_local.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_exit_anim.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\exit_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_historico_desc.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_historico_desc.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_msg_alerta.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_msg_alerta.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cadastro_senha.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cadastro_senha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_carrinho.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_carrinho.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lupa.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_lupa.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cadastro_android.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cadastro_android.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_numero.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_numero.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_zoom_enter.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_zoom_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_swipe_right_enter.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_swipe_right_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_hide_expand.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_hide_expand.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_autorizado_pagamento.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_autorizado_pagamento.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cadastro_android.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cadastro_android.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_promocoes.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_promocoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cadastro_email.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cadastro_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_shrink_enter.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_shrink_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_sheet_cadastrar_pin.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\layout\\bottom_sheet_cadastrar_pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\anim_animate_spin_enter.xml.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\src\\main\\res\\anim\\animate_spin_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_gallery.png.flat",
+        "source": "C:\\Users\\Kylukz\\Documents\\Food_DEV\\FoodDev\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_gallery.png"
+    }
+]

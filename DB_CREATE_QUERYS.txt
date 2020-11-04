@@ -1,0 +1,327 @@
+CREATE TABLE `app_erros_log` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `descricao` longtext COLLATE utf8_unicode_ci,
+  `linha` int(11) DEFAULT NULL,
+  `nivel_end` varchar(45) COLLATE utf8_unicode_ci DEFAULT 'Se é front-end/back-end',
+  `fk_empresa` varchar(45) COLLATE utf8_unicode_ci DEFAULT 'Qual empresa que causou o erro',
+  `fk_app_usuario` varchar(45) COLLATE utf8_unicode_ci DEFAULT 'Qual cliente causou o erro em qual empresa',
+  `fk_app_versionamento` int(11) DEFAULT NULL,
+  `data_erro` datetime DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `app_log` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `acao` longtext COLLATE utf8_unicode_ci,
+  `fk_app_usuario` int(11) DEFAULT NULL,
+  `fk_app_versionamento` int(11) DEFAULT NULL,
+  `data_acao` datetime DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=256 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `app_motoboy` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `fk_app_usuario` int(11) NOT NULL COMMENT 'Fk para aproveitar o usuário do app',
+  `fk_endereco` int(11) NOT NULL COMMENT 'FK do endereço do cliente que agora é motoboy',
+  `fk_foto` int(11) DEFAULT NULL COMMENT 'FK da foto da lata do caboclo',
+  `fk_uf_placa` int(11) NOT NULL COMMENT 'uf da placa do veiculo',
+  `placa` varchar(45) COLLATE utf8_unicode_ci NOT NULL,
+  `descricao_veiculo` mediumtext COLLATE utf8_unicode_ci,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `app_parametros` (
+  `id` varchar(5) COLLATE utf8_unicode_ci NOT NULL,
+  `nome` varchar(45) COLLATE utf8_unicode_ci NOT NULL,
+  `valor_parametro` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `tipo_parametro` varchar(45) COLLATE utf8_unicode_ci NOT NULL,
+  `descricao` text COLLATE utf8_unicode_ci NOT NULL,
+  `obs` text COLLATE utf8_unicode_ci,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `app_usuario` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `nome` varchar(30) COLLATE utf8_unicode_ci NOT NULL,
+  `sobrenome` varchar(65) COLLATE utf8_unicode_ci NOT NULL,
+  `apelido` varchar(50) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `cpf` varchar(20) COLLATE utf8_unicode_ci NOT NULL,
+  `tipo_cliente` varchar(45) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `nascimento` date NOT NULL,
+  `celular` varchar(15) COLLATE utf8_unicode_ci NOT NULL,
+  `fone` varchar(45) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `email` varchar(45) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `pin_gerado` int(8) DEFAULT NULL,
+  `senha` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `facebook_login_social` varchar(100) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `facebook_nome` varchar(80) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `google_login` varchar(45) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `google_senha` varchar(45) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `token_firebase_fcm` text COLLATE utf8_unicode_ci,
+  `data_ultimo_token_firebase` datetime DEFAULT NULL,
+  `se_motoboy` int(1) NOT NULL DEFAULT '0',
+  `se_completou_cadastro` int(1) NOT NULL DEFAULT '0',
+  `se_inativo` int(1) NOT NULL DEFAULT '0',
+  `data_cadastro` datetime NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci COMMENT='Tabela de autenticação para o aplicativo'
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `app_usuario_endereco` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `fk_app_usuario` int(11) NOT NULL,
+  `fk_cidade` int(11) NOT NULL,
+  `fk_uf` int(11) NOT NULL,
+  `nome` varchar(100) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `numero` varchar(45) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `bairro` varchar(45) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `cep` int(11) DEFAULT '0',
+  `ponto_ref` varchar(80) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `obs` text COLLATE utf8_unicode_ci,
+  `data_cadastro` datetime DEFAULT NULL,
+  `se_ativo` int(11) DEFAULT '1',
+  `latitude` varchar(45) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `longitude` varchar(45) COLLATE utf8_unicode_ci DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `app_usuario_versionamento` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `fk_usuario` int(11) NOT NULL,
+  `fk_versionamento` int(11) NOT NULL,
+  `ultima_atualizacao` datetime DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci COMMENT='Entidade relacionamento core_usuario e app_versionamento'
+
+ 
+ 
+//////////////////////////////////////////////////
+
+CREATE TABLE `app_versionamento` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `versao_maior` int(11) NOT NULL,
+  `versao_menor` int(11) NOT NULL,
+  `correcao` int(11) NOT NULL,
+  `data_lancamento` datetime NOT NULL,
+  `data_inativacao` datetime DEFAULT NULL,
+  `nome_versao` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `status_versao` varchar(100) COLLATE utf8_unicode_ci NOT NULL COMMENT '-Versão Maior(MAJOR): quando fizer mudanças incompatíveis na API;\\\\n-Versão Menor(MINOR): quando adicionar funcionalidades mantendo compatibilidade;\\\\n-Versão de Correção(PATCH): quando corrigir falhas mantendo compatibilidade.\\\\n\\\\nPor Igor Maximo\\\\nData 03/03/2019 \\\\nModificada:  03/03/2019 \\\\n',
+  `ide_version_code` int(11) NOT NULL,
+  `dispositivo_os` varchar(45) COLLATE utf8_unicode_ci NOT NULL,
+  `package` varchar(100) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `obs` text COLLATE utf8_unicode_ci,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci COMMENT='(Inserção manual pelo DEV) Tabela responsável por armazenar cada versão lançada e suas respectivas características. Versões inativas não irão funcionar, como medida de segurança.'
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `core_cidade` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `fk_uf` varchar(45) COLLATE utf8_unicode_ci NOT NULL,
+  `nome` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `ibge` varchar(10) COLLATE utf8_unicode_ci NOT NULL,
+  `apelido` varchar(45) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `lat` varchar(45) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `long` varchar(45) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `obs` text COLLATE utf8_unicode_ci,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=3 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `core_erro` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `local` varchar(200) NOT NULL,
+  `descricao` varchar(250) NOT NULL,
+  `data_cadastro` datetime NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=186 DEFAULT CHARSET=utf8 COMMENT='Tabela responsavel pelo armazenamento de erros do sistema e integrações'
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `core_uf` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `nome` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `sigla` varchar(2) COLLATE utf8_unicode_ci NOT NULL,
+  `obs` varchar(45) COLLATE utf8_unicode_ci DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=3 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `empresa` (
+  `Cod_empresa` int(11) NOT NULL AUTO_INCREMENT,
+  `fk_foto` int(11) DEFAULT NULL,
+  `ativo` int(11) DEFAULT NULL COMMENT '0 - inativo\n1 - ativo\n2 - homologação',
+  `Cod_cidade` int(11) DEFAULT NULL,
+  `Fantasia` varchar(50) CHARACTER SET utf8 COLLATE utf8_bin DEFAULT NULL,
+  `Razao` varchar(50) DEFAULT NULL,
+  `Endereco` varchar(50) DEFAULT NULL,
+  `Fone` varchar(50) DEFAULT NULL,
+  `Cnpj` varchar(18) DEFAULT NULL,
+  `Ie` varchar(20) DEFAULT NULL,
+  `Cep` varchar(9) DEFAULT NULL,
+  `Numero_endereco` varchar(6) DEFAULT NULL,
+  `Bairro` varchar(50) DEFAULT NULL,
+  `Contato` varchar(60) DEFAULT NULL,
+  `Percentual` decimal(10,2) DEFAULT NULL,
+  PRIMARY KEY (`Cod_empresa`),
+  KEY `fk_empresa_foto_idx` (`fk_foto`),
+  CONSTRAINT `fk_empresa_foto` FOREIGN KEY (`fk_foto`) REFERENCES `foto` (`id`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB AUTO_INCREMENT=39 DEFAULT CHARSET=utf8 COMMENT='Tabela de empresas'
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `forma_pagamento` (
+  `Cod_Fpagamento` int(11) NOT NULL AUTO_INCREMENT,
+  `fk_empresa` int(11) DEFAULT NULL,
+  `Descricao` varchar(50) DEFAULT NULL,
+  `Cod_categoria` int(11) DEFAULT NULL,
+  `Ativo` int(11) DEFAULT NULL,
+  PRIMARY KEY (`Cod_Fpagamento`),
+  KEY `fk_empresa_forma_pagamento_idx` (`fk_empresa`),
+  CONSTRAINT `fk_empresa_forma_pagamento` FOREIGN KEY (`fk_empresa`) REFERENCES `empresa` (`Cod_empresa`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=22 DEFAULT CHARSET=utf8 COMMENT='Lista de formas de pagamento'
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `foto` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `foto` blob NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=92 DEFAULT CHARSET=utf8
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `grupo` (
+  `Cod_GRUPO` int(11) NOT NULL AUTO_INCREMENT,
+  `fk_foto` int(11) DEFAULT NULL,
+  `fk_empresa` int(11) DEFAULT NULL,
+  `Ativo` int(11) DEFAULT '1',
+  `Nome` varchar(50) DEFAULT NULL,
+  `PIZZA` int(11) DEFAULT NULL,
+  PRIMARY KEY (`Cod_GRUPO`),
+  KEY `fk_grupo_foto_idx` (`fk_foto`),
+  KEY `fk_grupo_empresa_idx` (`fk_empresa`),
+  CONSTRAINT `fk_grupo_empresa` FOREIGN KEY (`fk_empresa`) REFERENCES `empresa` (`Cod_empresa`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_grupo_foto` FOREIGN KEY (`fk_foto`) REFERENCES `foto` (`id`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB AUTO_INCREMENT=52 DEFAULT CHARSET=utf8 COMMENT='Grupos de produtos cadastrados'
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `motoboy` (
+  `Cod_Funcionario` int(11) NOT NULL AUTO_INCREMENT,
+  `fk_foto` int(11) DEFAULT NULL,
+  `fk_empresa` int(11) DEFAULT NULL,
+  `ativo` int(11) DEFAULT NULL,
+  `Nome` varchar(50) DEFAULT NULL,
+  `Cep` varchar(9) DEFAULT NULL,
+  `Endereco_numero` varchar(6) DEFAULT NULL,
+  `Endereco` varchar(50) DEFAULT NULL,
+  `Bairro` varchar(50) DEFAULT NULL,
+  `Cod_cidade` int(11) DEFAULT NULL,
+  `Fone` varchar(14) DEFAULT NULL,
+  `Celular` varchar(15) DEFAULT NULL,
+  `CPF` varchar(16) DEFAULT NULL,
+  `RG` varchar(20) DEFAULT NULL,
+  `Placa` varchar(10) DEFAULT NULL,
+  `Placa_descricao` text,
+  PRIMARY KEY (`Cod_Funcionario`),
+  KEY `fk_motoboy_foto_idx` (`fk_foto`),
+  KEY `fk_motoboy_empresa_idx` (`fk_empresa`),
+  CONSTRAINT `fk_motoboy_empresa` FOREIGN KEY (`fk_empresa`) REFERENCES `empresa` (`Cod_empresa`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_motoboy_foto` FOREIGN KEY (`fk_foto`) REFERENCES `foto` (`id`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB AUTO_INCREMENT=22 DEFAULT CHARSET=utf8 COMMENT='Lista de registros de motoboy cadastrados'
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `pedido` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `fk_cliente` int(11) NOT NULL,
+  `fk_empresa` int(11) NOT NULL,
+  `fk_forma_pagamento` int(11) NOT NULL,
+  `fk_motoboy` int(11) NOT NULL,
+  `valor_total` decimal(10,3) NOT NULL DEFAULT '0.000',
+  `situacao` int(11) NOT NULL DEFAULT '0' COMMENT '0 - pendente\n1 - pago\n2 - pronto\n3 - entregue\n4 - avaliado',
+  `end_cep` varchar(15) NOT NULL,
+  `end_rua` varchar(50) DEFAULT NULL,
+  `end_rua_numero` varchar(10) DEFAULT NULL,
+  `end_rua_referencia` varchar(200) DEFAULT NULL,
+  `end_bairro` varchar(50) DEFAULT NULL,
+  `end_cidade` varchar(50) DEFAULT NULL,
+  `comentario` varchar(200) DEFAULT NULL,
+  `data_producao` datetime DEFAULT NULL,
+  `data_encaminhado` datetime DEFAULT NULL,
+  `data_entrega` datetime DEFAULT NULL,
+  `data_cadastro` datetime NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `fk_pedido_empresa_idx` (`fk_empresa`),
+  KEY `fk_pedido_motoboy_idx` (`fk_motoboy`),
+  KEY `fk_pedido_forma_pagamento_idx` (`fk_forma_pagamento`),
+  CONSTRAINT `fk_pedido_empresa` FOREIGN KEY (`fk_empresa`) REFERENCES `empresa` (`Cod_empresa`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_pedido_forma_pagamento` FOREIGN KEY (`fk_forma_pagamento`) REFERENCES `forma_pagamento` (`Cod_Fpagamento`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_pedido_motoboy` FOREIGN KEY (`fk_motoboy`) REFERENCES `motoboy` (`Cod_Funcionario`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `pedido_produto` (
+  `fk_produto` int(11) NOT NULL,
+  `fk_pedido` int(11) NOT NULL,
+  `quantidade` int(11) NOT NULL,
+  `valor_total` decimal(10,3) DEFAULT NULL,
+  `comentario` varchar(200) DEFAULT NULL,
+  PRIMARY KEY (`fk_produto`,`fk_pedido`),
+  KEY `fk_pedido_pedido_idx` (`fk_pedido`),
+  CONSTRAINT `fk_pedido_pedido` FOREIGN KEY (`fk_pedido`) REFERENCES `pedido` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_pedido_produto` FOREIGN KEY (`fk_produto`) REFERENCES `produto` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `produto` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `ativo` int(11) DEFAULT NULL,
+  `fk_foto` int(11) DEFAULT NULL,
+  `fk_empresa` int(11) DEFAULT NULL,
+  `fk_grupo` int(11) DEFAULT NULL,
+  `nome` varchar(30) DEFAULT NULL,
+  `descricao` varchar(250) DEFAULT NULL,
+  `cod_barra_produto` varchar(20) DEFAULT NULL,
+  `unidade` varchar(3) DEFAULT NULL,
+  `preco_custo` decimal(10,4) DEFAULT NULL,
+  `preco_avista` decimal(10,4) DEFAULT NULL,
+  `preco_promocao` decimal(10,4) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `fk_produto_foto_idx` (`fk_foto`),
+  KEY `fk_produto_empresa_idx` (`fk_empresa`),
+  KEY `fk_produto_grupo_idx` (`fk_grupo`),
+  CONSTRAINT `fk_produto_empresa` FOREIGN KEY (`fk_empresa`) REFERENCES `empresa` (`Cod_empresa`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_produto_foto` FOREIGN KEY (`fk_foto`) REFERENCES `foto` (`id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `fk_produto_grupo` FOREIGN KEY (`fk_grupo`) REFERENCES `grupo` (`Cod_GRUPO`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=42 DEFAULT CHARSET=utf8 COMMENT='	'
+
+//////////////////////////////////////////////////
+
+CREATE TABLE `usuario` (
+  `Cod_usuario` int(11) NOT NULL AUTO_INCREMENT,
+  `fk_empresa` int(11) DEFAULT NULL,
+  `ativo` int(11) NOT NULL DEFAULT '1',
+  `Nome` varchar(50) NOT NULL,
+  `Senha` varchar(12) NOT NULL,
+  `Nivel` int(11) NOT NULL,
+  PRIMARY KEY (`Cod_usuario`),
+  KEY `fk_empresa_usuario_idx` (`fk_empresa`),
+  CONSTRAINT `fk_empresa_usuario` FOREIGN KEY (`fk_empresa`) REFERENCES `empresa` (`Cod_empresa`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB AUTO_INCREMENT=21 DEFAULT CHARSET=utf8 COMMENT='Tabela de usuarios do sistema'
